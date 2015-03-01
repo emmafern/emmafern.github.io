@@ -1,0 +1,24 @@
+h1 { 
+  font-family: 'Pacifico', cursive; 
+  font-weight: 400;
+  font-size: 60px;
+  margin-bottom: 50px;
+}
+
+h2 {
+  margin-top: -5px;
+  margin-bottom: 15px;
+  border-bottom: 2px solid #EEE;
+}
+
+p {
+  font-family: 'Bitter', serif;
+}
+
+.ul-nobullets {
+  list-style-type: none;
+}
+
+.ul-nopadding {
+  padding-left: 0px;
+}

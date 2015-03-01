@@ -1,0 +1,77 @@
+---
+header_title: Emma Ferneyhough Colner
+---
+<!DOCTYPE HTML>
+
+<html>
+
+  <head>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    <!-- Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Bitter:400,700|Pacifico' rel='stylesheet' type='text/css'>
+    <!-- Custom CSS -->
+    <link href='/assets/css/typography.css' rel='stylesheet' type='text/css'>
+    <link href='/assets/css/layout.css' rel='stylesheet' type='text/css'>
+  </head>
+
+  <body>
+    <h1 class="text-center">{{ page.header_title }}</h1>
+
+    <!-- left panel -->
+    <div class="left-nav col-md-2 text-right">
+      <!-- left nav -->
+      <p>Map</p>
+      <ul class="ul-nobullets">
+        <li><a href="/">home</a></li>
+        <li><a href="/about">about</a></li>
+        <li><a href="/archeology">archeology</a></li>
+        <li><a href="/photography">photography</a></li>
+        <li><a href="/psychology">psychology</a></li>
+        <li><a href="/web_dev">web development</a></li>
+      </ul>
+
+      <!-- web log links -->
+      <p>Brain dump</p>
+      <ul class="ul-nobullets">
+        {% for post in site.posts %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+
+    </div>
+
+    <!-- main content -->
+    <div id="content" class="col-md-8">
+      <h2> {{ page.title }} </h2>
+      {{ content }}
+    </div>
+
+    <!-- right panel -->
+    <div class="right-nav col-md-2">
+      <!-- left social links -->
+      <p>All the things</p>
+      <ul class="ul-nobullets ul-nopadding">
+        <li><a href="https://instagram.com/emmafern/">Instagram</a></li>
+        <li><a href="https://twitter.com/meemameemameema">Twitter</a></li>
+        <li><a href="https://www.flickr.com/photos/emmafern/">Flickr</a></li>
+        <li><a href="https://www.linkedin.com/in/emmacolner">LinkedIn</a></li>
+        <li><a href="https://github.com/emmafern">Github</a></li>
+      </ul>
+
+      <p>I support/am supported by</p>
+      <ul class="ul-nobullets ul-nopadding">
+        <li><a href="https://www.womenwhocode.com/">Women Who Code</a></li>
+        <li><a href="http://chicktech.org/">ChickTech</a></li>
+      </ul>
+    <div>
+
+  </body>
+
+</html>
