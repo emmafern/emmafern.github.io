@@ -1,5 +1,10 @@
+@font-face {
+  font-family: 'hazel';
+  src: url('hazel.ttf');
+}
+
 h1 { 
-  font-family: 'Pacifico', cursive; 
+  font-family: 'hazel';
   font-weight: 400;
   font-size: 60px;
   margin-bottom: 50px;
