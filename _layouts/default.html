@@ -17,60 +17,71 @@ header_title: Emma Ferneyhough Colner
     <!-- Custom CSS -->
     <link href='/assets/css/typography.css' rel='stylesheet' type='text/css'>
     <link href='/assets/css/layout.css' rel='stylesheet' type='text/css'>
+    <link href='/assets/css/sticky-footer.css' rel='stylesheet' type='text/css'>
   </head>
 
   <body>
     <h1 class="text-center">{{ page.header_title }}</h1>
 
-    <!-- left panel -->
-    <div class="left-nav col-md-2 text-right">
-      <!-- left nav -->
-      <h4>Map</h4>
-      <ul class="ul-nobullets">
-        <li><a href="/">home</a></li>
-        <li><a href="/about">about</a></li>
-        <li><a href="/archeology">archeology</a></li>
-        <li><a href="/photography">photography</a></li>
-        <li><a href="/psychology">psychology</a></li>
-        <li><a href="/web_dev">web development</a></li>
-      </ul>
+    <div class="container-fluid">
+      <div class="row">
+        <!-- left panel -->
+        <div class="left-nav col-md-2 text-right">
+          <!-- left nav -->
+          <h4>Map</h4>
+          <ul class="ul-nobullets">
+            <li><a href="/">home</a></li>
+            <li><a href="/about">about</a></li>
+            <li><a href="/archeology">archeology</a></li>
+            <li><a href="/photography">photography</a></li>
+            <li><a href="/psychology">psychology</a></li>
+            <li><a href="/web_dev">web development</a></li>
+          </ul>
 
-      <!-- web log links -->
-      <h4>Brain dump</h4>
-      <ul class="ul-nobullets">
-        {% for post in site.posts %}
-          <li>
-            <a href="{{ post.url }}">{{ post.title }}</a>
-          </li>
-        {% endfor %}
-      </ul>
+          <!-- web log links -->
+          <h4>Brain dump</h4>
+          <ul class="ul-nobullets">
+            {% for post in site.posts %}
+              <li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+
+        <!-- main content -->
+        <div id="content" class="col-md-8">
+          <h2> {{ page.title }} </h2>
+          {{ content }}
+        </div>
+
+        <!-- right panel -->
+        <div class="right-nav col-md-2">
+          <!-- left social links -->
+          <h4>All the things</h4>
+          <ul class="ul-nobullets ul-nopadding">
+            <li><a href="https://instagram.com/emmafern/">Instagram</a></li>
+            <li><a href="https://twitter.com/meemameemameema">Twitter</a></li>
+            <li><a href="https://www.flickr.com/photos/emmafern/">Flickr</a></li>
+            <li><a href="https://www.linkedin.com/in/emmacolner">LinkedIn</a></li>
+            <li><a href="https://github.com/emmafern">Github</a></li>
+          </ul>
+
+          <h4>I support</h4>
+          <ul class="ul-nobullets ul-nopadding">
+            <li><a href="https://www.womenwhocode.com/">Women Who Code</a></li>
+            <li><a href="http://chicktech.org/">ChickTech</a></li>
+            <li><a href="http://www.railsbridge.org/">Railsbridge</a></li>
+          </ul>
+        </div>
+      </div>
     </div>
 
-    <!-- main content -->
-    <div id="content" class="col-md-8">
-      <h2> {{ page.title }} </h2>
-      {{ content }}
-    </div>
-
-    <!-- right panel -->
-    <div class="right-nav col-md-2">
-      <!-- left social links -->
-      <h4>All the things</h4>
-      <ul class="ul-nobullets ul-nopadding">
-        <li><a href="https://instagram.com/emmafern/">Instagram</a></li>
-        <li><a href="https://twitter.com/meemameemameema">Twitter</a></li>
-        <li><a href="https://www.flickr.com/photos/emmafern/">Flickr</a></li>
-        <li><a href="https://www.linkedin.com/in/emmacolner">LinkedIn</a></li>
-        <li><a href="https://github.com/emmafern">Github</a></li>
-      </ul>
-
-      <h4>I support</h4>
-      <ul class="ul-nobullets ul-nopadding">
-        <li><a href="https://www.womenwhocode.com/">Women Who Code</a></li>
-        <li><a href="http://chicktech.org/">ChickTech</a></li>
-        <li><a href="http://www.railsbridge.org/">Railsbridge</a></li>
-      </ul>
-    <div>
+    <footer class="footer">
+      <div class="container">
+        <p class="text-muted text-center">Copyright &copy; 2015 Emma F. Colner. Hosted by <a href="https://github.com/emmafern/emmafern.github.io" target='_blank'>GitHub</a> and powered by <a href="http://jekyllrb.com/">Jekyll</a>.</p>
+      </div>
+    </footer>
 
     <!-- Google Analytics -->
     <script>
