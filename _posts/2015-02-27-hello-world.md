@@ -2,9 +2,7 @@
 layout: default
 ---
 
-{{ post.title }}
-
-###It\'s 2015
+####It\'s 2015
 
 I thought it was about time that I brought meemoon.com into the 21st century. Welcome to my little slice of the web.
 
@@ -20,7 +18,7 @@ Now I am working my way to being a semi-decent web developer at a bigger San Fra
 
 But I digress.
 
-###The point?
+####The point?
 
 I'm not sure what the point of this blog will be, other than a place for me to write thoughts down about topics that might interest others. I'm hoping it will keep me accountable and encourage me to spend some time each month being a little creative and doing some constructive reflection. I'm going to limit whining and complaining, that's what LiveJournal is for (yes it's still around).
 
