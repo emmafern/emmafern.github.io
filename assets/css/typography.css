@@ -62,3 +62,15 @@ p {
 .ul-nopadding {
   padding-left: 0px;
 }
+
+.syn-letter-e {
+  color: #0E0E6F;
+}
+
+.syn-letter-f {
+  color: #074E12;
+}
+
+.syn-letter-c {
+  color: #FFA200;
+}
