@@ -10,3 +10,8 @@
 img {
   margin: 10px;
 }
+
+.post-title, .post-body {
+  padding-right: 10%;
+  padding-left: 10%;
+}
