@@ -1,5 +1,8 @@
 ---
 layout: default
+tags:
+- hikes
+- photos
 ---
 
 The east bay has some excellent hikes. During the last week of February we went up to Tilden Park and ended up hiking through the [Tilden Nature Area](http://www.ebparks.org/parks/tilden/tna) on a beautiful winter/summer day. (Technically winter, physically felt more like summer). I didn't realize until just now that Tilden Park is divided up into the Nature Area and the Regional Park. From personal experience, it seems like the main difference lies in the fact that the Regional Park offers more activities and you'll probably run into more people there. The Nature Area by contrast seemed quieter and we had more moments to ourselves on the trail and at the peak.

@@ -1,5 +1,10 @@
 ---
 layout: default
+tags: 
+- tech
+- gender
+- engineering
+- career
 ---
 
 As a female engineer in SF it's hard to ignore the hundreds of articles and blog posts about discrimination in the tech world that have cropped up over the last weeks and months. Maybe they've always been there, but for whatever reason the media has really taken to this topic recently. Simply put, it can be a polarizing topic. There are people who experience certain unfortunate things repeatedly and other people who have no concept of what it is like to experience those things. I have definitely experienced forms of discrimination in my work places. I don't think they were ever intentional or malicious, luckily for me, but I am aware of them and try not to let it affect my work and standing.

@@ -1,5 +1,7 @@
 ---
 layout: default
+tags:
+- javascript
 ---
 
 As you may have gathered from other parts of my website, I am a software developer. I'm pretty junior at the moment and working hard on one day not being so junior. Although I have been programming off and on for nearly half my life, I never did web development professionally until about a year and a half ago. Most of my other programming experience was very data-oriented and mainly served to accomplish discrete tasks such as collect behavioral data, explore data, analyze data, visualize data... you get the picture. So far I love being a developer - it fits my preferred style of working quite well. It's challenging, there's always a puzzle to figure out, most work is done independently but collaboration underlies everything, and it requires a lot of creativity. Pretty much everything I work on involves learning something new. It can be quite slow, especially if I go about it the right way and do a ton of reading before committing any code. But it's worth it because I get bored easily if I'm not learning every day.

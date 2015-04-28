@@ -1,5 +1,9 @@
 ---
 layout: default
+tags:
+- hikes
+- photos
+- beach
 ---
 
 I've finally caught up with processing all my recent photos taken on my Fuji X-E2. Once I get these out of my system I hope to write some blog posts about something other than awesome hikes. But for today, I am going to tell you about our hike to [Alamere Falls](http://www.bahiker.com/northbayhikes/palomarin.html) last weekend.

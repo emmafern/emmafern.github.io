@@ -1,5 +1,9 @@
 ---
 layout: default
+tags:
+- hikes
+- beach
+- photos
 ---
 
 I caught up on sorting through photos I took in February over the weekend. It's been unusually warm in SF the past few years so that means we get to enjoy lovely beach days when the rest of the country is up to their ankles/knees/waists in snow. Yes, we are all doomed.
