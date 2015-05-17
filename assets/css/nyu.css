@@ -1,0 +1,45 @@
+/*****CSS RESET*******/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td { margin: 0; padding: 0; border: 0; outline: 0; font-size: 100%; vertical-align: baseline; background: transparent; }
+body { line-height: 1; }
+ol, ul { list-style: none; }
+blockquote, q { quotes: none; }
+blockquote:before, blockquote:after,
+q:before, q:after { content: ''; content: none; }
+:focus { outline: 0; }
+ins { text-decoration: none; }
+del { text-decoration: line-through; }
+table { border-collapse: collapse; border-spacing: 0 }
+
+/*****BODY STYLES*******/
+
+body { font-family: helvetica, sans-serif; font-style: normal; font-size: 14px; line-height: 18px; background: #000000; }
+p { margin-bottom: 10px; }
+a { text-decoration: none; }
+a:link, a:visited { color: blue; text-decoration: none; }
+a:hover { background: #7FFF00; }
+
+dl { float: none; }
+dl dt { float: left; text-align: center; width: 120px; font-size: 18px; font-weight: bold; padding: 10px 0 10px 10px; border-top: 1px solid #999; }
+dl dd { text-align: left; width: 540px; padding: 10px 10px 10px 140px; border-top: 1px solid #999; }
+
+#container { margin: 0 auto; width: 100%; }
+
+/*****HEADER STYLES*****/
+
+#header { width: 700px; height: 300px; background: #FFFFFF; margin-left: auto; margin-right: auto; margin-top: 20px; margin-bottom: 15px; padding: 10px; text-align: center; font-size: 16px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; }
+#header img { float: right; width: 300px; height: 300px; clear: right; margin: 0 0 0 0; }
+#header h1 { font-family: times, serif; text-decoration: underline; font-size: 33px; margin: 25px 25px 35px 0px ; }
+
+#cvheader { width: 700px; height: 130px; background: #FFFFFF; margin-left: auto; margin-right: auto; margin-top: 20px; margin-bottom: 0; text-align: center; font-size: 16px; padding: 10px; -moz-border-radius-topleft: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-left-radius: 10px; -webkit-border-top-right-radius: 10px; border-top-right-radius: 10px; border-top-left-radius: 10px; }
+#cvheader h1 { font-size: 33px; margin: 25px; }
+
+/******CONTENT STYLES******/
+
+#content { width: 700px; background: #FFFFFF; margin-left: auto; margin-right: auto; margin-top: 15px; margin-bottom: 15px; padding: 15px 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; }
+
+#cvcontent { width: 700px; background: #FFFFFF; margin-left: auto; margin-right: auto; padding: 10px; -moz-border-radius-bottomleft: 10px; -moz-border-radius-bottomright: 10px;  -webkit-border-bottom-left-radius: 10px; -webkit-border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; }
+
+/******FOOTER STYLES******/
+
+#footer { width: 700px; height: 40px; background: #000000; color: #CCCCCC; margin-left: auto; margin-right: auto; margin-top: 15px; text-align: center; }
