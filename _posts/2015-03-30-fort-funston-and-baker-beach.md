@@ -8,7 +8,7 @@ tags:
 
 I caught up on sorting through photos I took in February over the weekend. It's been unusually warm in SF the past few years so that means we get to enjoy lovely beach days when the rest of the country is up to their ankles/knees/waists in snow. Yes, we are all doomed.
 
-####Fort Funston Beach
+#### Fort Funston Beach
 
 On Valentine's Day we went to the very southern part of Ocean Beach, which is right next to [Fort Funston National Park](http://www.nps.gov/goga/planyourvisit/fortfunston.htm). Apparently it is one of the premier hang gliding spots in the area, and also the site of the largest remaining dune field in San Francisco. 
 
@@ -44,7 +44,7 @@ On Valentine's Day we went to the very southern part of Ocean Beach, which is ri
 
 <p class="text-center">The sun was out shining bright, people were flying their kites and drones. All in all, a wonderful day.</p>
 
-####Baker Beach
+#### Baker Beach
 
 Just to show that it's not always sunny, we went to Baker Beach the following weekend when our friend Ty was visiting. Although it was a glorious sunny day on the east side of the city, we arrived at the beach just as the fog wall enveloped us.
 
