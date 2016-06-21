@@ -9,7 +9,7 @@ It's been a while since I posted about any of the home improvement projects we'v
 
 We didn't merely "set up" the room, however. It took us many months to get from what our 2nd bedroom used to look like
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/emmafern/20006212666/in/album-72157654063267493/" title="DSCF3327"><img class="img-responsive img-rounded center-block" src="https://c3.staticflickr.com/1/474/20006212666_ac6b311802_z.jpg" width="361" height="640" alt="DSCF3327"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/emmafern/20006212666" title="DSCF3327"><img class="img-responsive img-rounded center-block" src="https://c3.staticflickr.com/1/474/20006212666_42c2b1d602_z.jpg" width="361" height="640" alt="DSCF3327"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 to what it looks like now.
 
