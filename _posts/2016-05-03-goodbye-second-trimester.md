@@ -6,7 +6,7 @@ tags:
 
 <p class="text-center">14.5 weeks in January vs. 27.5 weeks in April</p>
 <center>
-  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/emmafern/24639650709/in/album-72157659993499353/" title="DSCF4092"><img src="https://farm2.staticflickr.com/1545/24639650709_7773e30b86_z.jpg" width="400" alt="DSCF4092"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><a data-flickr-embed="true"  href="https://www.flickr.com/photos/emmafern/26201068824/in/album-72157659993499353/" title="DSCF4177"><img src="https://farm8.staticflickr.com/7263/26201068824_9912bbd090_z.jpg" width="400" alt="DSCF4177"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/emmafern/24639650709/in/album-72157659993499353/" title="DSCF4092"><img class="img-rounded" src="https://farm2.staticflickr.com/1545/24639650709_7773e30b86_z.jpg" width="400" alt="DSCF4092"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><a data-flickr-embed="true"  href="https://www.flickr.com/photos/emmafern/26201068824/in/album-72157659993499353/" title="DSCF4177"><img class="img-rounded" src="https://farm8.staticflickr.com/7263/26201068824_9912bbd090_z.jpg" width="400" alt="DSCF4177"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </center>
 
 ### 14.5 weeks
