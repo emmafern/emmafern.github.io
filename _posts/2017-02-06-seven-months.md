@@ -39,3 +39,5 @@ Imagine you have your perfect set-up on your laptop. All your apps and keyboard 
 Motherhood is totally losing track of the self. Your self has been pulled out and now exists in another physically compromised human being. It takes a long time to feel like you have your self back. At 6 months postpartum, and finally getting some sleep, it's just starting to come back. I found the energy and gratitude to finish writing my thank you cards from the baby shower. I cook again. I'm writing in this journal again. I may have the courage to make plans with friends without the baby. I am less afraid of having Bob parent Miles. I'm putting less pressure on myself in regards to breastfeeding by the very fact that we made it to 6 months. 
 
 I passed a milestone. Get it?
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/emmafern/31925544473/in/dateposted-ff/" title="IMG_0989"><img class="img-responsive img-rounded center-block" src="https://c1.staticflickr.com/1/534/31925544473_939801dd21_z.jpg" width="480" height="640" alt="IMG_0989"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
